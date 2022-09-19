@@ -79,7 +79,7 @@ void main() {
     }
 
     int l = 0;
-    printf("\nEnter the length length of plain text.(without spaces) ");
+    printf("\nEnter the length of plain text");
     scanf("%d", &l);
 
     printf("\nEnter the Plain text. ");
